@@ -1,125 +1,172 @@
-## Hi there 👋
-# I’m Anumulapally Gunasai 👋  
-### AI & Machine Learning Engineer | Applied Systems Builder
+<h1 align="center">Hi, I’m Anumulapally Gunasai 👋</h1>
 
-I build **real-world AI systems**, not just academic models.  
-I treat AI as an **engineering discipline** — where data, systems, and reliability matter more than flashy demos.
+<p align="center">
+  <strong>AI & Machine Learning Engineer | Applied Systems Builder</strong>
+</p>
 
----
+<p align="center">
+  I build <strong>real-world AI systems</strong>, not just academic models.<br/>
+  I treat AI as an <strong>engineering discipline</strong> — where data, systems, and reliability matter more than flashy demos.
+</p>
 
-## 🧠 What I Work On
-I design and implement **end-to-end intelligent systems** with a focus on:
+<p align="center">
+  <a href="https://github.com/gunasai12">
+    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/gunasai">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-- 🤖 Applied Machine Learning & Predictive Modeling  
-- 📊 Data Analytics & Business Intelligence  
-- 🔗 Blockchain-based platforms for trust & transparency  
-- 🧠 AI-powered full-stack applications  
-- 🛠️ Hardware + Software integrated intelligent systems  
+<hr/>
 
----
+<h2>🧠 What I Work On</h2>
 
-## 🏗️ Flagship Projects
+<p>
+I design and implement <strong>end-to-end intelligent systems</strong> with a focus on:
+</p>
 
-### 🪖 Smart Helmet for Two-Wheeler Safety
+<ul>
+  <li>🤖 Applied Machine Learning & Predictive Modeling</li>
+  <li>📊 Data Analytics & Business Intelligence</li>
+  <li>🔗 Blockchain-based platforms for trust & transparency</li>
+  <li>🧠 AI-powered full-stack applications</li>
+  <li>🛠️ Hardware + Software integrated intelligent systems</li>
+</ul>
+
+<hr/>
+
+<h2>🏗️ Flagship Projects</h2>
+
+<h3>🪖 Smart Helmet for Two-Wheeler Safety</h3>
+<p>
 AI-enabled safety system ensuring vehicle operation only under safe conditions.
+</p>
 
-**Key highlights**
-- Helmet usage detection  
-- Alcohol sensing & stress alerts  
-- Gradual speed reduction in unsafe conditions  
+<ul>
+  <li>Helmet usage detection</li>
+  <li>Alcohol sensing & stress alerts</li>
+  <li>Gradual speed reduction in unsafe conditions</li>
+</ul>
 
-📜 **Patent Published – Indian Patent Office**  
-**IN201941044325A – Intelligent System for Improved Two-Wheeler Rider Safety**
+<p>
+📜 <strong>Patent Published – Indian Patent Office</strong><br/>
+<strong>IN201941044325A – Intelligent System for Improved Two-Wheeler Rider Safety</strong>
+</p>
 
-**Tech:** Arduino, Sensors, Bluetooth, RF Module  
+<p><strong>Tech:</strong> Arduino, Sensors, Bluetooth, RF Module</p>
 
----
+<hr/>
 
-### ⚡ Electricity Bill Payment System using Blockchain
-Decentralized electricity billing and payment platform using smart contracts.
+<h3>⚡ Electricity Bill Payment System using Blockchain</h3>
 
-**Impact**
-- Eliminated third-party intermediaries  
-- Automated bill generation  
-- Secure, transparent consumer–provider transactions  
+<ul>
+  <li>Eliminated third-party intermediaries</li>
+  <li>Automated bill generation</li>
+  <li>Secure, transparent consumer–provider transactions</li>
+</ul>
 
-**Tech:** Solidity, Ethereum, React Native, Node.js  
+<p><strong>Tech:</strong> Solidity, Ethereum, React Native, Node.js</p>
 
----
+<hr/>
 
-### 💸 Personal Finance Assistant (ML-powered)
-Machine learning system that analyzes spending behavior and delivers smart budgeting insights.
+<h3>💸 Personal Finance Assistant (ML-powered)</h3>
 
-**Focus**
-- Expense pattern analysis  
-- Budget suggestions  
-- Anomaly detection & alerts  
+<ul>
+  <li>Expense pattern analysis</li>
+  <li>Budget suggestions</li>
+  <li>Anomaly detection & alerts</li>
+</ul>
 
-**Tech:** Python, Pandas, Scikit-learn, Matplotlib  
+<p><strong>Tech:</strong> Python, Pandas, Scikit-learn, Matplotlib</p>
 
----
+<hr/>
 
-### 📊 Data Analytics & BI Work
-Built dashboards and ML models to support **data-driven business decisions**.
+<h3>📊 Data Analytics & BI Work</h3>
 
-- Sales prediction & demand analysis  
-- KPI dashboards using Power BI  
-- Actionable insights for operations & marketing  
+<ul>
+  <li>Sales prediction & demand analysis</li>
+  <li>KPI dashboards using Power BI</li>
+  <li>Actionable insights for operations & marketing</li>
+</ul>
 
----
+<hr/>
 
-## 🧩 Core Tech Stack
+<h2>🧩 Core Tech Stack</h2>
 
-**AI & Machine Learning**  
-Python · Scikit-learn · PyTorch · TensorFlow · Keras · Pandas · NumPy  
+<p><strong>AI & Machine Learning</strong><br/>
+Python · Scikit-learn · PyTorch · TensorFlow · Keras · Pandas · NumPy
+</p>
 
-**Data & Visualization**  
-Power BI · Tableau · Excel · DAX · Data Cleaning  
+<p><strong>Data & Visualization</strong><br/>
+Power BI · Tableau · Excel · DAX · Data Cleaning
+</p>
 
-**Backend & Full Stack**  
-FastAPI · Node.js · React · React Native · MERN Stack · Spring Boot  
+<p><strong>Backend & Full Stack</strong><br/>
+FastAPI · Node.js · React · React Native · MERN Stack · Spring Boot
+</p>
 
-**Blockchain & Systems**  
-Solidity · Ethereum · Smart Contracts · Docker · Linux  
+<p><strong>Blockchain & Systems</strong><br/>
+Solidity · Ethereum · Smart Contracts · Docker · Linux
+</p>
 
-**Hardware & IoT**  
-Arduino · Sensors · Bluetooth · RF Modules  
+<p><strong>Hardware & IoT</strong><br/>
+Arduino · Sensors · Bluetooth · RF Modules
+</p>
 
----
+<hr/>
 
-## 🌱 Currently Learning
-- Advanced Machine Learning & model optimization  
-- Robotics
-- MLOps fundamentals (deployment, monitoring, reliability)  
-- Scalable backend systems for AI applications  
+<h2>🌱 Currently Learning</h2>
 
----
+<ul>
+  <li>Advanced Machine Learning & model optimization</li>
+  <li>Deep Learning architectures</li>
+  <li>MLOps fundamentals (deployment, monitoring, reliability)</li>
+  <li>Scalable backend systems for AI applications</li>
+</ul>
 
-## 🎓 Education & Experience
-🎓 **B.Tech – Computer Science (AI & ML)**  
+<hr/>
+
+<h2>🎓 Education & Experience</h2>
+
+<p>
+🎓 <strong>B.Tech – Computer Science (AI & ML)</strong><br/>
 Woxsen University (2022–2026)
+</p>
 
-💼 **Automation & Application Testing Intern – Volante Technologies**
-- Enterprise systems: Kafka, RabbitMQ, ActiveMQ, MongoDB, Tomcat  
-- API testing, QA automation, transaction validation  
+<p>
+💼 <strong>Automation & Application Testing Intern – Volante Technologies</strong><br/>
+Kafka, RabbitMQ, ActiveMQ, MongoDB, Tomcat<br/>
+API testing, QA automation, transaction validation
+</p>
 
-📊 **Deloitte Australia – Virtual Job Simulation**
-- Data analysis, KPI dashboards  
-- Client-focused insight reporting  
----
+<p>
+📊 <strong>Deloitte Australia – Virtual Job Simulation</strong><br/>
+Data analysis, KPI dashboards, client-focused insight reporting
+</p>
 
-## 🎯 What I Care About
-- Real-world impact over toy projects  
-- Systems that work outside the lab  
-- Clean architecture over quick hacks  
-- Learning deeply, not chasing buzzwords  
+<hr/>
 
-If you’re building **applied AI systems**, not just experiments —  
-**let’s talk.**
+<h2>🎯 What I Care About</h2>
 
----
+<ul>
+  <li>Real-world impact over toy projects</li>
+  <li>Systems that work outside the lab</li>
+  <li>Clean architecture over quick hacks</li>
+  <li>Learning deeply, not chasing buzzwords</li>
+</ul>
 
-## 📫 Connect With Me
-- GitHub: https://github.com/gunasai12  
-- LinkedIn: www.linkedin.com/in/gunasai-anumulapally-8204b3251  
-- Email: ganumulapally@gmail.com  
+<p>
+If you’re building <strong>applied AI systems</strong>, not just experiments — <strong>let’s talk.</strong>
+</p>
+
+<hr/>
+
+<h2>📫 Connect With Me</h2>
+
+<ul>
+  <li>GitHub: <a href="https://github.com/gunasai12">github.com/gunasai12</a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/gunasai">linkedin.com/in/gunasai</a></li>
+  <li>Email: ganumulapally@gmail.com</li>
+</ul>
