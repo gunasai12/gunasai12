@@ -9,18 +9,6 @@
   I treat AI as an <strong>engineering discipline</strong> — where data, systems, and reliability matter more than flashy demos.
 </p>
 
-<p align="center">
-  <a href="https://github.com/gunasai12">
-    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="www.linkedin.com/in/gunasai-anumulapally-8204b3251">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
-<hr/>
-
 <h2>🧠 What I Work On</h2>
 
 <p>
