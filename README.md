@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/gunasai">
+  <a href="www.linkedin.com/in/gunasai-anumulapally-8204b3251">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
@@ -167,6 +167,6 @@ If youâ€™re building <strong>applied AI systems</strong>, not just experiments â
 
 <ul>
   <li>GitHub: <a href="https://github.com/gunasai12">github.com/gunasai12</a></li>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/gunasai">linkedin.com/in/gunasai</a></li>
+  <li>LinkedIn: <a href="www.linkedin.com/in/gunasai-anumulapally-8204b3251">linkedin.com/in/gunasai</a></li>
   <li>Email: ganumulapally@gmail.com</li>
 </ul>
