@@ -39,8 +39,8 @@ AI-enabled safety system ensuring vehicle operation only under safe conditions.
 </ul>
 
 <p>
-📜 <strong>Patent Published – Indian Patent Office</strong><br/>
-<strong>IN201941044325A – Intelligent System for Improved Two-Wheeler Rider Safety</strong>
+📜 <strong>Patent Published - Indian Patent Office</strong><br/>
+<strong>IN201941044325A - Intelligent System for Improved Two-Wheeler Rider Safety</strong>
 </p>
 
 <p><strong>Tech:</strong> Arduino, Sensors, Bluetooth, RF Module</p>
@@ -119,18 +119,18 @@ Arduino · Sensors · Bluetooth · RF Modules
 <h2>🎓 Education & Experience</h2>
 
 <p>
-🎓 <strong>B.Tech – Computer Science (AI & ML)</strong><br/>
+🎓 <strong>B.Tech - Computer Science (AI & ML)</strong><br/>
 Woxsen University (2022–2026)
 </p>
 
 <p>
-💼 <strong>Automation & Application Testing Intern – Volante Technologies</strong><br/>
+💼 <strong>Automation & Application Testing Intern - Volante Technologies</strong><br/>
 Kafka, RabbitMQ, ActiveMQ, MongoDB, Tomcat<br/>
 API testing, QA automation, transaction validation
 </p>
 
 <p>
-📊 <strong>Deloitte Australia – Virtual Job Simulation</strong><br/>
+📊 <strong>Deloitte Australia - Virtual Job Simulation</strong><br/>
 Data analysis, KPI dashboards, client-focused insight reporting
 </p>
 
@@ -146,7 +146,7 @@ Data analysis, KPI dashboards, client-focused insight reporting
 </ul>
 
 <p>
-If you’re building <strong>applied AI systems</strong>, not just experiments — <strong>let’s talk.</strong>
+If you’re building <strong>applied AI systems</strong>, not just experiments -- <strong>let’s talk.</strong>
 </p>
 
 <hr/>
