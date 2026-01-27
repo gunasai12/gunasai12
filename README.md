@@ -6,7 +6,7 @@
 
 <p align="center">
   I build <strong>real-world AI systems</strong>, not just academic models.<br/>
-  I treat AI as an <strong>engineering discipline</strong> — where data, systems, and reliability matter more than flashy demos.
+  I treat AI as an <strong>engineering discipline</strong> - where data, systems, and reliability matter more than flashy demos.
 </p>
 
 <h2>🧠 What I Work On</h2>
