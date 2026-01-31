@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I’m Anumulapally Gunasai 👋</h1>
 
 <p align="center">
-  <strong>AI & Machine Learning Engineer | Applied Systems Builder</strong>
+  <strong>Artificial Intelligence & Machine Learning Engineer | Applied Systems Builder</strong>
 </p>
 
 <p align="center">
