@@ -156,4 +156,5 @@ If you’re building <strong>applied AI systems</strong>, not just experiments -
 <ul>
   <li>LinkedIn: <a href="www.linkedin.com/in/gunasai-anumulapally-8204b3251">linkedin.com/in/gunasai</a></li>
   <li>Email: ganumulapally@gmail.com</li>
+  <li>Phone Number:+918688195228<li>
 </ul>
