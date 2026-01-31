@@ -40,7 +40,7 @@ AI-enabled safety system ensuring vehicle operation only under safe conditions.
 
 <p>
 📜 <strong>Patent Published - Indian Patent Office</strong><br/>
-<strong>IN201941044325A - Intelligent System for Improved Two-Wheeler Rider Safety</strong>
+         <strong>IN201941044325A - Intelligent System for Improved Two-Wheeler Rider Safety</strong>
 </p>
 
 <p><strong>Tech:</strong> Arduino, Sensors, Bluetooth, RF Module</p>
