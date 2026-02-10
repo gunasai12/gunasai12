@@ -1,113 +1,134 @@
-<h1 align="center">Hi, I’m Anumulapally Gunasai 👋</h1>
+<h1 align="center">Anumulapally Gunasai</h1>
 
 <p align="center">
-  <strong>Artificial Intelligence & Machine Learning Engineer | Applied Systems Builder</strong>
+AI & Machine Learning Engineer | Applied Systems Builder | Production-Oriented Thinker
 </p>
 
 <p align="center">
-  I build <strong>real-world AI systems</strong>, not just academic models.<br/>
-  I treat AI as an <strong>engineering discipline</strong> - where data, systems, and reliability matter more than flashy demos.
+I engineer real-world AI systems — not academic prototypes.<br/>
+Focused on scalability, reliability, and measurable impact.
 </p>
 
-<h2>🧠 What I Work On</h2>
+---
+
+
+## 💼 Experience
+
+### Automation & Application Testing Intern  
+**Volante Technologies**
+
+- Validated enterprise-grade financial API transactions
+- Worked with Kafka, RabbitMQ, and ActiveMQ for distributed messaging systems
+- Integrated MongoDB for backend verification and logging
+- Built QA automation workflows
+- Monitored reliability across transaction pipelines
+
+---
+
+### Deloitte Australia – Data Analytics Virtual Simulation
+
+- Performed structured data analysis and transformation
+- Built KPI dashboards and performance reports
+- Delivered insight-driven business recommendations
+
+---
+
+## 🧠 Engineering Focus</h2>
 
 <p>
 I design and implement <strong>end-to-end intelligent systems</strong> with a focus on:
 </p>
 
 <ul>
-  <li>🤖 Applied Machine Learning & Predictive Modeling</li>
-  <li>📊 Data Analytics & Business Intelligence</li>
-  <li>🔗 Blockchain-based platforms for trust & transparency</li>
   <li>🧠 AI-powered full-stack applications</li>
   <li>🛠️ Hardware + Software integrated intelligent systems</li>
+  <li>🔗 Blockchain-based platforms for trust & transparency</li>
+  <li>🤖 Applied Machine Learning & Predictive Modeling</li>
+  <li>📊 Data Analytics & Business Intelligence</li>
 </ul>
 
 <hr/>
 
-<h2>🏗️ Flagship Projects</h2>
+## 🏗️ Flagship Projects
 
-<h3>🪖 Smart Helmet for Two-Wheeler Safety</h3>
-<p>
-AI-enabled safety system ensuring vehicle operation only under safe conditions.
-</p>
-
+### 🪖 Smart Helmet for Two-Wheeler Rider Safety  
+**Patent Published – IN201941044325A**
 <ul>
-  <li>Helmet usage detection</li>
-  <li>Alcohol sensing & stress alerts</li>
-  <li>Gradual speed reduction in unsafe conditions</li>
+<li>AI-enabled embedded safety system ensuring vehicle operation only under safe rider conditions.</li>
 </ul>
-
-<p>
-📜 <strong>Patent Published - Indian Patent Office</strong><br/>
-  <ul>
-      <li>  <strong>IN201941044325A</strong> - Intelligent System for Improved Two-Wheeler Rider Safety</li>
-  </ul>
-</p>
-
-<p><strong>Tech:</strong> Arduino, Sensors, Bluetooth, RF Module</p>
-
-<hr/>
-
-<h3>⚡ Electricity Bill Payment System using Blockchain</h3>
-
+<h2>Highlights</h2>
 <ul>
-  <li>Eliminated third-party intermediaries</li>
-  <li>Automated bill generation</li>
-  <li>Secure, transparent consumer–provider transactions</li>
+<li>Helmet usage detection</li>
+<li>Alcohol sensing integration</li>
+<li>Stress-based alerts</li>
+<li>Gradual speed reduction in unsafe conditions</li>
+<li>Multi-sensor validation logic</li>
 </ul>
 
-<p><strong>Tech:</strong> Solidity, Ethereum, React Native, Node.js</p>
+**Tech**: Arduino · Sensors · RF Module · Bluetooth
 
-<hr/>
+---
 
-<h3>💸 Personal Finance Assistant (ML-powered)</h3>
+### ⚡ Blockchain-Based Electricity Billing Platform
 
-<ul>
-  <li>Expense pattern analysis</li>
-  <li>Budget suggestions</li>
-  <li>Anomaly detection & alerts</li>
-</ul>
+Decentralized electricity payment system eliminating third-party intermediaries.
 
-<p><strong>Tech:</strong> Python, Pandas, Scikit-learn, Matplotlib</p>
+**Highlights**
+- Automated bill generation logic
+- Secure consumer–provider smart contract transactions
+- Transparent payment verification workflows
+- Reduced manual monitoring overhead
 
-<hr/>
+**Tech:** Solidity · Ethereum · React Native · Node.js
 
-<h3>📊 Data Analytics & BI Work</h3>
+---
 
-<ul>
-  <li>Sales prediction & demand analysis</li>
-  <li>KPI dashboards using Power BI</li>
-  <li>Actionable insights for operations & marketing</li>
-</ul>
+### 💸 ML-Powered Personal Finance Assistant
 
-<hr/>
+Intelligent expense analysis and anomaly detection system.
 
-<h2>🧩 Core Tech Stack</h2>
+**Highlights**
+- Spending pattern modeling
+- Budget recommendation engine
+- Anomaly detection alerts
+- Insight-based financial summaries
 
-<p><strong>AI & Machine Learning</strong><br/>
-Python · Scikit-learn · PyTorch · TensorFlow · Keras · Pandas · NumPy
-</p>
+**Tech:** Python · Pandas · Scikit-learn · Matplotlib
 
-<p><strong>Data & Visualization</strong><br/>
-Power BI · Tableau · Excel · DAX · Data Cleaning
-</p>
+---
 
-<p><strong>Backend & Full Stack</strong><br/>
-FastAPI · Node.js · React · React Native · MERN Stack · Spring Boot
-</p>
+### 📊 Data Analytics & BI Systems
 
-<p><strong>Blockchain & Systems</strong><br/>
-Solidity · Ethereum · Smart Contracts · Docker · Linux
-</p>
+- Sales forecasting models
+- Demand analysis frameworks
+- KPI dashboards using Power BI
+- Operational and marketing insight generation
 
-<p><strong>Hardware & IoT</strong><br/>
-Arduino · Sensors · Bluetooth · RF Modules
-</p>
+---
 
-<hr/>
+## 🧩 Technical Skills
 
-<h2>🌱 Currently Learning</h2>
+### Programming
+Python · JavaScript · Solidity
+
+### Machine Learning
+Scikit-learn · PyTorch · TensorFlow · Feature Engineering · Model Evaluation
+
+### Data & Analytics
+Pandas · NumPy · Power BI · Tableau · Excel · DAX
+
+### Backend & APIs
+FastAPI · Node.js · Spring Boot · REST APIs
+
+### Systems & Infrastructure
+Docker · Linux · Kafka · RabbitMQ · MongoDB · Tomcat
+
+### Embedded & IoT
+Arduino · Sensor Integration · RF Communication · Bluetooth
+
+---
+
+## 🌱 Currently Learning</h2>
 
 <ul>
   <li>Advanced Machine Learning & model optimization</li>
@@ -118,27 +139,8 @@ Arduino · Sensors · Bluetooth · RF Modules
 
 <hr/>
 
-<h2>🎓 Education & Experience</h2>
 
-<p>
-🎓 <strong>B.Tech - Computer Science (AI & ML)</strong><br/>
-Woxsen University (2022–2026)
-</p>
-
-<p>
-💼 <strong>Automation & Application Testing Intern - Volante Technologies</strong><br/>
-Kafka, RabbitMQ, ActiveMQ, MongoDB, Tomcat<br/>
-API testing, QA automation, transaction validation
-</p>
-
-<p>
-📊 <strong>Deloitte Australia - Virtual Job Simulation</strong><br/>
-Data analysis, KPI dashboards, client-focused insight reporting
-</p>
-
-<hr/>
-
-<h2>🎯 What I Care About</h2>
+## 🎯 What I Care About</h2>
 
 <ul>
   <li>Real-world impact over toy projects</li>
@@ -147,16 +149,25 @@ Data analysis, KPI dashboards, client-focused insight reporting
   <li>Learning deeply, not chasing buzzwords</li>
 </ul>
 
-<p>
-If you’re building <strong>applied AI systems</strong>, not just experiments -- <strong>let’s talk.</strong>
-</p>
 
-<hr/>
+## 🎓 Education
 
-<h2>📫 Connect With Me</h2>
+**B.Tech – Computer Science (AI & ML)**  
+Woxsen University (2022–2026)  
 
-<ul>
-  <li>LinkedIn: <a href="www.linkedin.com/in/gunasai-anumulapally-8204b3251">linkedin.com/in/gunasai</a></li>
-  <li>Email: ganumulapally@gmail.com</li>
-  <li>Phone Number:+918688195228</li>
-</ul>
+
+---
+
+## ⚙️ Engineering Philosophy
+
+- Accuracy without reliability is meaningless.
+- Deployment defines real AI.
+- Systems thinking > model obsession.
+- Clean architecture scales; hacks collapse.
+
+---
+
+## 📫 Connect
+
+LinkedIn: https://www.linkedin.com/in/gunasai-anumulapally-8204b3251  
+Email: ganumulapally@gmail.com
