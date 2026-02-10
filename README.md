@@ -20,7 +20,7 @@ Focused on scalability, reliability, and measurable impact.
 - Validated enterprise-grade financial API transactions
 - Worked with Kafka, RabbitMQ, and ActiveMQ for distributed messaging systems
 - Integrated MongoDB for backend verification and logging
-- Built QA automation workflows
+- Built QA automation workflows reducing manual validation time
 - Monitored reliability across transaction pipelines
 
 ---
@@ -56,7 +56,16 @@ I design and implement <strong>end-to-end intelligent systems</strong> with a fo
 <ul>
 <li>AI-enabled embedded safety system ensuring vehicle operation only under safe rider conditions.</li>
 </ul>
-<h2>Highlights</h2>
+
+### System Architecture
+<p align="center">
+<img width="281" height="624" alt="image" src="https://github.com/user-attachments/assets/83357136-216a-4851-a758-b2bfca77fd3d" />
+<p  align ='center'>
+<sub><b>High-level safety validation and vehicle control flow</b></sub>
+</p>
+</p>
+
+**Highlights**
 <ul>
 <li>Helmet usage detection</li>
 <li>Alcohol sensing integration</li>
